@@ -1,2 +1,9 @@
 /* Agrega tus estilos aquí */
 /* Debes crear una clase llamada mi-div */
+.mi-div {
+    width: 300px; /* Ancho de la caja */
+    height: 200px; /* Alto de la caja */
+    padding: 20px; /* Relleno dentro de la caja */
+    margin: 30px; /* Espacio fuera de la caja */
+    border: 10px solid blue;
+} /* Borde de la caja */
